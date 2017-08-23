@@ -7,6 +7,7 @@ int main()
     float b;
     char c;
     double d;
+    bool e;
     int *p=&a;
     cin>>a>>b>>c>>d;
     cout<<a<<b<<c<<d<<p;
