@@ -9,7 +9,7 @@ int main()
     double d;
     bool e;
     int *p=&a;
-    cin>>a>>b>>c>>d;
-    cout<<a<<b<<c<<d<<p;
+    cin>>a>>b>>c>>d>>e;
+    cout<<a<<b<<c<<d<<e<<p;
     return 0;
 }
